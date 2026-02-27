@@ -1,6 +1,6 @@
 ---
-booktitle: 'Proceedings of the {AAAI} 2026 Workshop on Audio-Centric {AI}: Towards
-  Real-World Multimodal Reasoning and Application Use Cases ({Audio-AAAI})'
+booktitle: 'Proceedings of the AAAI 2026 Workshop on Audio-Centric AI: Towards
+  Real-World Multimodal Reasoning and Application Use Cases (Audio-AAAI)'
 shortname: Audio-AAAI
 year: '2026'
 volume: '312'
@@ -30,7 +30,7 @@ editor:
   family: Chen
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings of the {AAAI} 2026 Workshop on Audio-Centric {AI}: Towards Real-World Multimodal Reasoning and Application Use Cases ({Audio-AAAI})
+  Proceedings of the AAAI 2026 Workshop on Audio-Centric AI: Towards Real-World Multimodal Reasoning and Application Use Cases (Audio-AAAI)
     Held in Singapore EXPO, Singapore, Singapore on 26 January 2026
 
   Published as Volume 312 by the Proceedings of Machine Learning Research on 27 February 2026.
@@ -76,8 +76,8 @@ volume_type: Volume
 volume_dir: v312
 email: ''
 conference:
-  name: 'Audio-Centric {AI}: Towards Real-World Multimodal Reasoning and Application
-    Use Cases ({Audio-AAAI})'
+  name: 'Audio-Centric AI: Towards Real-World Multimodal Reasoning and Application
+    Use Cases (Audio-AAAI)'
   url: https://sites.google.com/view/audio-aaai
   location: Singapore EXPO, Singapore, Singapore
   dates:
