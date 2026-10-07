@@ -4,7 +4,7 @@ booktitle: 'Proceedings of the AAAI 2026 Workshop on Audio-Centric AI: Towards
 shortname: Audio-AAAI
 year: '2026'
 volume: '312'
-start: &1 2026-01-26
+start: 2026-01-26
 end: 2026-01-26
 published: 2026-02-27
 conference_number: '1'
@@ -81,7 +81,7 @@ conference:
   url: https://sites.google.com/view/audio-aaai
   location: Singapore EXPO, Singapore, Singapore
   dates:
-  - *1
+  - 2026-01-26
 analytics:
   google:
     tracking_id: UA-92432422-1
